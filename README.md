@@ -8,7 +8,7 @@ I'm Nitish, a passionate software engineer with over 5 years of experience in cr
 
 💬 **Ask Me About:** Anything related to web development, software architecture, or building scalable applications.
 
-📫 **How to Reach Me:** Feel free to [email me](mailto:knitish123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nitish166.
+📫 **How to Reach Me:** Feel free to [email me](mailto:knitish123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nitish166).
 
 😄 **Pronouns:** He/Him
 
