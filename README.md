@@ -1,31 +1,45 @@
 ### Hi there! 👋
 
-I'm Nitish, a passionate software engineer with over 5 years of experience in crafting innovative web applications and tackling complex challenges. My expertise lies in full-stack development, where I specialize in JavaScript, React.js, Node.js, SQL, and MongoDB. I also have a solid understanding of system design, data structures, and algorithms.
+I'm **Nitish**, a passionate Full Stack Developer with over 6 years of experience building innovative and scalable web applications. I specialize in **JavaScript**, **React.js**, **Node.js**, **SQL**, and **MongoDB**, and I have a strong grasp of **system design**, **data structures**, and **algorithms**.
 
-🔭 **Currently Working On:** Building StudyHub Library, an online platform offering students access to a diverse range of educational resources.
+💼 **Currently Working At:** Boeing (Remote)  
+🚀 **Side Hustle:** Co-building **TripoO** — a travel startup to help people seamlessly book their trips via web & app. [https://tripoo.in](https://tripoo.in)
 
-🌱 **Currently Learning:** Exploring advanced techniques in React.js and Redux to elevate user experiences and optimize performance.
+📚 **Currently Learning:**  
+- Deep-diving into **Frontend & Backend System Design**  
+- Enhancing React performance  
+- Mastering real-world DSA problems
 
-💬 **Ask Me About:** Anything related to web development, software architecture, or building scalable applications.
+🧠 **Skills & Tools I Use:**  
+`React.js` · `Node.js` · `Express` · `MongoDB` · `MySQL` · `AWS (EC2/S3)` · `CI/CD` · `Redis` · `Git/GitHub` · `Docker` · `Jest` · `TypeScript` · `System Design`
 
-📫 **How to Reach Me:** Feel free to [email me](mailto:knitish123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nitish166).
+💬 **Ask Me About:**  
+- Full Stack project architecture  
+- Optimizing APIs and DB queries  
+- Scaling real-world applications  
+- Building MVPs and side projects
 
-😄 **Pronouns:** He/Him
-
-⚡ **Fun Fact:** I'm an avid reader and enjoy exploring new things in my free time.
+📫 **Reach Me At:**  
+- [Email Me](mailto:knitish123@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/nitish166)
 
 ---
 
-### Let's Chat! 👋
+### More About Me 😄
 
-I'm always up for a chat and love discussing topics like travel, food, music, movies, fitness, and reminiscing about epic childhood, school, and college stories.
+⚡ **Fun Fact:** I love building side projects, journaling my growth, and am always up for solving tech challenges.  
+🎯 **Personal Goal:** Become the top 1% engineer & build something impactful for the world.  
+❤️ **Currently Reading:** Tech blogs, system design notes, and startup journeys.
 
-🚀 **Topics I Enjoy:** Travel, food, music, movies, fitness, and sharing nostalgic memories from childhood, school, and college.
+---
 
-❌ **Topics I Avoid:** I generally steer clear of conversations about politics and religion.
+### Let's Chat! ☕  
+If you're into tech, startups, travel, gym, or just want to share some nostalgic school/college stories—I'm always up for a chat.
 
-Feel free to reach out if you want to chat about any of the topics I enjoy! You can email me or connect with me on LinkedIn.
+📌 **Topics I Enjoy:**  
+Travel · Food · Music · Movies · Fitness · Self-Improvement · Life Experiences
 
-Let's have some fun conversations! 😄
+🚫 **Topics I Avoid:**  
+Politics & Religion
 
-
+Let’s connect and build cool things together!
