@@ -2,7 +2,7 @@
 
 I'm **Nitish**, a passionate Full Stack Developer with over 6 years of experience building innovative and scalable web applications. I specialize in **JavaScript**, **React.js**, **Node.js**, **SQL**, and **MongoDB**, and I have a strong grasp of **system design**, **data structures**, and **algorithms**.
 
-💼 **Currently Working At:** Boeing (Remote)  
+
 🚀 **Side Hustle:** Co-building **TripoO** — a travel startup to help people seamlessly book their trips via web & app. [https://tripoo.in](https://tripoo.in)
 
 📚 **Currently Learning:**  
